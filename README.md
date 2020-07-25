@@ -7,4 +7,12 @@
 - Create clusters and deploy machine learning pipeline with Flask app as a web service.
 - See a web app in action that uses a trained machine learning pipeline to predict on new data points in real-time.
 
+
+
+
+## Inputs from user
 <img src="https://github.com/funnyPhani/Predicting-Insurance-Bill-Using-Pycaret/blob/master/pic.png"  />
+
+
+## Predictions of model
+<img src="https://github.com/funnyPhani/Predicting-Insurance-Bill-Using-Pycaret/blob/master/pic1.png"  />
