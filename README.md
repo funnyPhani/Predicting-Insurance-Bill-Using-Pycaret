@@ -1,5 +1,4 @@
-# Deploy Machine Learning Pipeline on Google Kubernetes Engine
-#### A beginner’s guide to train and deploy machine learning pipelines in Python using PyCaret
+
 
 ## 👉 Learning Goals of this Tutorial
 - What is a Container, What is Docker, What is Kubernetes, and What is Google Kubernetes Engine?
