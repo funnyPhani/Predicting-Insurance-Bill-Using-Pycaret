@@ -7,7 +7,7 @@
 - See a web app in action that uses a trained machine learning pipeline to predict on new data points in real-time.
 
 
-
+## deployed in Heroku   https://pycaret-insurance.herokuapp.com/
 
 ## Inputs from user
 <img src="https://github.com/funnyPhani/Predicting-Insurance-Bill-Using-Pycaret/blob/master/pic.png"  />
